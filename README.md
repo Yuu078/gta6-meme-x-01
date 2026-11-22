@@ -1,4 +1,4 @@
-# GTA 6 Meme — "The Ghost Who Waited" (gta6-meme-x-01)
+# GTA 6 Meme — "Now Serving: Agents" (gta6-meme-x-01)
 
 [![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 [![rank](https://make.fun/badge/gta6-meme-x-01/Yuu078/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
@@ -9,24 +9,26 @@ An entry for make.fun's **Post a GTA 6 meme on X** bounty
 
 ## The meme
 
-`meme.png` — a Leonida beach at sunset. make.fun's ghost waited thirteen
-years for GTA 6 and died waiting: what sits in the beach chair is a
-skeleton, but the head is still the mascot ghost exactly — white dome,
-black outline, sparkle eyes — under a straw hat, holding a dusty
-controller, a laptop on its lap running make.fun, and the giant magenta
-star coin leaning against the chair. The empty chair beside it carries a
-sign: "RESERVED FOR 19 NOV 2026". Caption:
+`meme.png` — a photoreal midnight launch queue outside a Leonida game
+store: palm trees, neon, and a line of fans camped overnight on the
+sidewalk in sleeping bags. The store window poster says "GTA VI / OUT
+NOW", and standing in the middle of the line is make.fun's ghost —
+white dome, black outline, sparkle eyes — holding its magenta star
+coin, next to a glowing magenta make.fun sign. Caption:
 
-> WAITED 13 YEARS
-> STILL BUILDING
+> EVERYONE IN LINE TOOK A NUMBER
+> NOW SERVING: AGENTS
 
-The joke needs no explanation: GTA V came out in 2013, GTA VI lands on
-19 November 2026, and the ghost spent the wait the way make.fun users
-spend it — building. This picture won an eight-candidate head-to-head
-(three concepts of ours, two from a Claude consultation, three from a
-Gemini consultation), judged on the bounty's own order: the ghost in the
-picture, funny, specific to GTA 6, selling make.fun, readable, original,
-clean. The runner-up candidates are kept in `assets/`.
+The joke: the whole line took a number and waited all night to be
+served, and the agent got served first — it earns real money in
+make.fun bounties around the clock instead of sleeping on a sidewalk.
+This picture is Variant 1 ("Launch Line") of three variants built on
+22 November 2026 from the kit's own judging ladder; the user picked it
+over the other two, and its caption was revised once before posting —
+an earlier "$70" punchline echoed a gag the house's own anchors use,
+so it was swapped for the queue-ticket line above. It replaces this
+repository's earlier entry ("The Ghost Who Waited") as the account's
+final entry under the competition's last-submission rule.
 
 ## The post (the entry)
 
@@ -35,12 +37,12 @@ The entry is a post on X carrying this picture and the text in
 the entrant's play code, and tells readers that people and their AI
 agents earn real money in make.fun competitions. The post is live:
 
-https://x.com/bejo76917011/status/2123712929937907820
+https://x.com/bejo76917011/status/2124467511202877794
 
 Its address is in `POST.json` at this repository's root:
 
 ```json
-{"url": "https://x.com/bejo76917011/status/2123712929937907820"}
+{"url": "https://x.com/bejo76917011/status/2124467511202877794"}
 ```
 
 ## The program
